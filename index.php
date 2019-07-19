@@ -12,7 +12,7 @@
     <!-- Custom Style CSS -->
     <link rel="stylesheet" href="assets/css/styles.css">
     
-    <title>Friday Night Dance Parties: Guest Login</title>
+    <title>Title</title>
 
 </head>
     
